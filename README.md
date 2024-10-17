@@ -1,3 +1,3 @@
 # odin-recipes
 
-A simple recipe website build to solidify and show my HTML and CSS skills.
+A simple recipe website build with HTML as part of The Odin Project's Foundations Course.
